@@ -1,3 +1,4 @@
 # Data files are too large to push
 data/*
 qg_dataset/
+.ipynb_checkpoints/
